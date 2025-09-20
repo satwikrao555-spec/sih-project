@@ -3,8 +3,7 @@ import cv2
 import numpy as np
 import csv
 from datetime import datetime
-import threading
-import queue
+
 
 
 def load_face_data():
