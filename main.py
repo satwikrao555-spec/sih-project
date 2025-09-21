@@ -12,7 +12,8 @@ def load_face_data():
         ("faces/newton.jpg", "Newton Mishra"),
         ("faces/aniketh.jpg", "Aniketh Kumar Yadav"),
         ("faces/pragg.jpg", "Pragyanshu Priyadarshi Padhy"),
-        ("faces/k.vashishta.jpg", "K. Vishishta")
+        ("faces/k.vashishta.jpg", "K. Vishishta"),
+        ("faces/pushpanjali.jpg", "A. Pushpanjali")
     ]
 
     encodings = []
